@@ -1,0 +1,13 @@
+body {
+    background: dimgray;
+padding: 50px;
+}
+
+h1 {
+    color: aliceblue;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+}
